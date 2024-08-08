@@ -2,4 +2,4 @@
 
 Now we are in vim too
 
-<img src="./img/Neko!.png">
+<img src="./img/Neko.jpg">
